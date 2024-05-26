@@ -1,0 +1,27 @@
+.CardContainer{
+    height: 200px;
+    /* width: 350px; */
+    background: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+}
+.CardContainer h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: green;
+}
+
+.CardContainer span{
+    font-size: 1.3rem;
+    font-family:cursive;
+    font-style: italic;
+    font-weight: 500;
+}
+.CardContainer p{
+    padding: 1rem 0;
+}
