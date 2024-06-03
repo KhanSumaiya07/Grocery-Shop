@@ -14,7 +14,7 @@ const Card = ({ title, subtitle, description, backgroundColor, width }) => {
       <span>{subtitle}</span>
       <h2>{title}</h2>
       <p>{description}</p>
-      <Btn />
+      <Btn/>
     </div>
   );
 };

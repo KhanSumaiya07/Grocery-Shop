@@ -1,7 +1,7 @@
 .mainContainer{
     height: 100vh;
     width: 100%;
-    background-color:greenyellow;
+    background-color:#A8BE6F;
     padding-top: 80px;
     display: flex;
 }
@@ -36,7 +36,7 @@
 .right{
     height: 100%;
     width: 60%;
-    background-image: url('https://www.diabetesfoodhub.org/system/user_files/Images/1837-diabetic-pecan-crusted-chicken-breast_JulAug20DF_clean-simple_061720.jpg');
+    background-image:url('../../../public/images/food_plate-removebg-preview.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

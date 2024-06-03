@@ -1,4 +1,5 @@
 import Banner from '@/component/banner/Banner';
+import ArrivalCards from '@/component/newArrival/arrivalCards';
 import Product from '@/component/Product';
 import React from 'react'
 
@@ -7,6 +8,7 @@ const Home = () => {
     <>
      <Banner/>
      <Product/>
+     <ArrivalCards/>
     </>
   )
 }
